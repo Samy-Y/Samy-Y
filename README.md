@@ -1,7 +1,2 @@
 # Samy-Y
-Hello.
-
-<!---
-Samy-Y/Samy-Y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm a 18‑year‑old student passionate about computer science, history and astronomy, with a strong academic record.
