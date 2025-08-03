@@ -73,8 +73,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samy-Y&show_icons=true&theme=radical" alt="Samy-Y's GitHub stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samy-Y&theme=radical" alt="GitHub Streak"/>
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samy-Y&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
